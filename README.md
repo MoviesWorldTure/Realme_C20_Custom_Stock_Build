@@ -14,4 +14,4 @@ fastboot --disable-verity --disable-verification flash vbmeta_system vbmeta_syst
 
 Then Format Device, Reboot (In Custom/Stock Recovery) 
 
-![My Image](https://fdn2.gsmarena.com/vv/bigpic/realme-c20-r1.jpg)![My Image](https://fdn2.gsmarena.com/vv/pics/realme/realme-c20-1.jpg) 
+![My Image](https://fdn2.gsmarena.com/vv/pics/realme/realme-c20-1.jpg) 
