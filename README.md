@@ -8,6 +8,8 @@ fastboot devices
 
 fastboot flash system system.img
 
+fastboot flash oppo_product oppo_product.img
+
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
 
 fastboot --disable-verity --disable-verification flash vbmeta_system vbmeta_system.img
