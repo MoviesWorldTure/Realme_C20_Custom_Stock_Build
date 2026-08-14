@@ -2,6 +2,8 @@ Flash Guide's :--
 
 Extract System.7z
 
+Extract oppo_product.7z
+
 adb reboot fastboot
 
 fastboot devices 
